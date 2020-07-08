@@ -27,12 +27,8 @@
       "description": "Development server"
     },
     {
-      "url": "YOUR_STAGING_SERVER",
+      "url": "https://infosec-cms.herokuapp.com",
       "description": "Staging server"
-    },
-    {
-      "url": "YOUR_PRODUCTION_SERVER",
-      "description": "Production server"
     }
   ],
   "externalDocs": {
